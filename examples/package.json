@@ -3,7 +3,7 @@
   "description": "packages required to run the examples", 
   "version": "0.0.0",
   "dependencies": {
-    "connect": "1.6", 
+    "connect": "3.7", 
     "connect-gzip": "0.1",
     "connect-jsonp": "0.0.5",
     "connect-restreamer": "1",
